@@ -16,7 +16,7 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "94741698653",
+  OWNER_NUMBER: "947757660788",
   SUDO_NUMBERS : "94757660788"
   OWNER_NAME: "『 𝙼𝚁 𝙲𝙷𝙰𝙺𝚈 』",
   BOT_NAME : "ＺＵＳＹＣＯ",
@@ -36,7 +36,7 @@ module.exports = {
   WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : false,
   CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴢᴜꜱʏᴄᴏ ᴍᴅ ʙᴏᴛ',
-  STICKER_PACK : '[ MR CHAKY ]',
+  STICKER_PACK : '[ KING HIRO ]',
   BAD_WORDS : 'fuck,pussy',
   ANTI_BAD : false,
   ANTI_LINKS : 'chat.whatsapp.com',
@@ -55,7 +55,7 @@ module.exports = {
   BOT_OFFLINE : true,
   INBOX_BLOCK : false,
   AUTO_REACT : false,
-  OWNER_REACT : '🤵‍♂️',
+  OWNER_REACT : '💗',
   AUTO_BGM : false,
   BGM : {
     "chaio" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-caio.mp3",
